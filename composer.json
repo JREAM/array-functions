@@ -1,0 +1,27 @@
+{
+    "name": "jream/array-functions",
+    "description": "Recursive functions for PHP",
+    "keywords": [
+        "jream",
+        "array",
+        "helper",
+        "recursive",
+        "recursion"
+    ],
+    "homepage": "https://github.com/jream/array-functions",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jesse Boyer",
+            "email": "hello@jream.com",
+            "homepage": "https://jream.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php" : ">=5.4.0"
+    },
+    "autoload": {
+        "files": ["src/array_functions.php"]
+    }
+}
