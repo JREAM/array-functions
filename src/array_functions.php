@@ -130,7 +130,7 @@ function array_value_depth($needle, array $haystack, $strict = false) {
  *
  * @return array|boolean
  */
-function array_rand(array $haystack, $amount = 1) {
+function array_random(array $haystack, $amount = 1) {
 
 }
 
